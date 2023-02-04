@@ -117,6 +117,7 @@ banner = [
 '&nbsp;',
 
 'For a list of available commands, type<span class="command">\'help\'</span> ',
+'For visiting my portfolio , type<span class="command">\'gui\'</span> ',
 
 ];
 
