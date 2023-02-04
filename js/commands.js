@@ -1,9 +1,9 @@
-// let twitter = 'http://www.twitter.com/SUJAY_ADKESAR';
-// let linkedin = 'https://www.linkedin.com/in/sujay-adkesar-a90725224';
+let twitter = 'https://twitter.com/with_yasin';
+let linkedin = 'https://www.linkedin.com/in/ariful-islam-849328228/';
 let github = 'https://github.com/yasin64035';
 let website = 'https://arifulislam.tech';
 let instagram = 'https://www.instagram.com/ya381sin/';
-// let repo = 'https://github.com/sujayadkesar/terminal_portfolio';
+let repo = 'https://github.com/yasin64035/terminal_portfolio21';
 let project = 'https://github.com/yasin64035?tab=repositories';
 // let project_site = "https://sujayadkesar.live/all-directories/portfolio-project-export/index.html"
 let existCommands = [
