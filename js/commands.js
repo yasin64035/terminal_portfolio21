@@ -33,7 +33,7 @@ about = [
   "&nbsp;",
   "<span style='color:red;'>01101000 01101001</span> There 👋, I'm <span style='color: yellow;'>Ariful Islam</span> ",
   "&nbsp;",
-  " MOST HANDSOME MEN IN BANGLADESH: ARIFUL ISLAM",
+  " MOST HANDSOME Teenager IN BANGLADESH: ARIFUL ISLAM",
   "   Fitness Model",
   "Greetings, I am a web developer, a young and ambitious ",
   "individual with a passion for crafting innovative solutions for ",
